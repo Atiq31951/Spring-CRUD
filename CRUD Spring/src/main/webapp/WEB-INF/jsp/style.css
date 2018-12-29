@@ -1,0 +1,21 @@
+.pageTitle{
+    margin-top: 20px;
+    height: auto;
+    width: 100%;
+    background: rgb(149, 255, 182);
+    color: rgb(243, 240, 237);
+    text-align: center;
+    padding: 30px;
+}
+
+.btnn{
+    background: #000 !important;
+}
+
+.tableDiv{
+    background: #000;
+    margin-top: 30px;
+    height: 500px;
+    width: 100%;
+    padding: 5%;
+}
